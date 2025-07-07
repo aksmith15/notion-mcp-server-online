@@ -19,7 +19,6 @@
     "notion-mcp-server": "./server.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.7.0",
     "@notionhq/client": "^2.2.16",
     "dotenv": "^16.4.7",
     "zod": "^3.24.2"
